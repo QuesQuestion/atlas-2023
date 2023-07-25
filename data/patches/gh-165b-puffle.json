@@ -1,0 +1,106 @@
+{
+	"id": -1,
+	"name": "Puffle",
+	"description": "Puffles were creatures from the Club Penguin virtual world, which was shut down in 2017. Players could adopt and take care of them.\n\n",
+	"links": {
+		"website": [
+			"https://clubpenguin.fandom.com/wiki/Puffle"
+		],
+		"subreddit": [
+			"clubpenguin"
+		],
+		"discord": [
+			"E2CqWpyTrk"
+		]
+	},
+	"path": {
+		"205-207": [
+			[
+				1370,
+				-948
+			],
+			[
+				1370,
+				-936
+			],
+			[
+				1367,
+				-937
+			],
+			[
+				1368,
+				-936
+			],
+			[
+				1365,
+				-943
+			],
+			[
+				1367,
+				-946
+			],
+			[
+				1374,
+				-948
+			],
+			[
+				1375,
+				-947
+			],
+			[
+				1378,
+				-946
+			],
+			[
+				1377,
+				-948
+			],
+			[
+				1379,
+				-947
+			],
+			[
+				1379,
+				-944
+			],
+			[
+				1380,
+				-944
+			],
+			[
+				1379,
+				-939
+			],
+			[
+				1378,
+				-937
+			],
+			[
+				1377,
+				-936
+			],
+			[
+				1371,
+				-936
+			],
+			[
+				1374,
+				-935
+			],
+			[
+				1371,
+				-935
+			],
+			[
+				1370,
+				-939
+			]
+		]
+	},
+	"center": {
+		"205-207": [
+			1375,
+			-941
+		]
+	}
+}
